@@ -1,3 +1,4 @@
+# GOLD PRICE PREDICTOR
 Making predictions on gold prices is not easy because this process is influenced by several economic and financial elements. The Random Forest regression algorithm was used in this project to predict the price of gold using variables like USO, SLV, EUR/USD and SPX. This study aims at determining if the r-squared mean metric can be useful to assess the accuracy rate of the prediction model and creating a simple graphical user interface (GUI) for user interaction.
 
 1. Data Collection and Preprocessing
